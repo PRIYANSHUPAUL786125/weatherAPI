@@ -28,7 +28,7 @@ This is a simple Weather API built using Node.js, Express, and the OpenWeatherMa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-api.git
+git clone https://github.com/yourusername/weatherAPI.git
 cd weather-api
 
 2. Install Dependencies
